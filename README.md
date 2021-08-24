@@ -9,6 +9,3 @@ npm run build
 
 https://galeria-imagem-responsivo.netlify.app/
 
-
-
-# galeria_imagem_react_js
